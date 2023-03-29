@@ -1,7 +1,7 @@
 # CUSTOM_MBR_OVERWRITE_IN_PYTHON
 Overwrites the MBR with a Mandelbrot Fractal its for Windows only. Also you need to pip install pywin32. Also loops through it twice because Windows can 
 sometimes recover when its only overwritten once. Be careful only run this in a virtual machine or a machine you do not care about because it will leave it 
-destroyed.
+destroyed. STAR THIS
 
 
                                                  Master Boot Record
